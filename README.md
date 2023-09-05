@@ -6,4 +6,3 @@ newbranch_vscode01
 →解消
 
 再度コンフリクト発生2  
-→解消
