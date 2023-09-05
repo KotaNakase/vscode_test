@@ -1,4 +1,6 @@
-# vscode_test  
+# vscode_test
 mainbranch  
-make branch
-再度コンフリクト発生
+make branch  
+newbranch_vscode01  
+再度コンフリクト発生  
+→解消
