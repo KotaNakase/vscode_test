@@ -15,3 +15,5 @@ newbranch_vscode01
 checkoutが必要
 
 履歴の確認
+
+履歴の確認2
