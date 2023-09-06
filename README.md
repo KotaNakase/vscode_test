@@ -13,3 +13,5 @@ newbranch_vscode01
 --no-ffを検証
 
 checkoutが必要
+
+履歴の確認
