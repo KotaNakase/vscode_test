@@ -11,3 +11,5 @@ newbranch_vscode01
 ブランチ間の差分を確認してみる
 
 --no-ffを検証
+
+checkoutが必要
